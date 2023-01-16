@@ -1,0 +1,44 @@
+.logo{
+    height: 2rem !important;
+}
+
+.navbar-container{
+    padding: 20px;
+}
+
+.searchbar{
+    margin-left: 3%;
+    width: 20% !important;
+    border-color: black !important;
+    border-width: 2px !important;
+
+}
+.searchbar2{
+    margin-left: 1%;
+    margin-right: 10% !important;
+    width: 50% !important;
+    border-color: black !important;
+    border-width: 2px !important;
+
+}
+
+.Loginbtn{
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+}
+.sellBtn{
+    border-radius: 40px !important;
+    border-width: 5px !important;
+    border-color: rgb(246, 250, 15) !important;
+    background-color: white !important;
+    width: 100px !important;
+}
+.sellBtn h6{
+    color: black;
+}
+
+.searchbtn{
+    background-color: black !important;
+    border-color: black !important;
+}

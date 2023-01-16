@@ -1,0 +1,19 @@
+.mainImage{
+    align-self: center !important;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+.home{
+    width: 100%;
+}
+.cardSection{
+    padding: 20px;
+}
+.cardsDiv{
+    display: flex;
+    flex-wrap: wrap !important;
+}
+*{
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
